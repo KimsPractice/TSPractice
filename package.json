@@ -1,0 +1,19 @@
+{
+  "name": "tspractice",
+  "version": "1.0.0",
+  "description": "Learning TypeScript By makeing a Some product",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimsPractice/TSPractice.git"
+  },
+  "author": "kimspractice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimsPractice/TSPractice/issues"
+  },
+  "homepage": "https://github.com/KimsPractice/TSPractice#readme"
+}
