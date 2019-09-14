@@ -1,3 +1,3 @@
 # TS Practice
 
-Learning TypeScript and TS+React By cloning some serive
+Learning TypeScript Fundamental and TS+React
