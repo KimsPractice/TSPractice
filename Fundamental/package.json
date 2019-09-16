@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KimsPractice/TSPractice/issues"
   },
-  "homepage": "https://github.com/KimsPractice/TSPractice#readme"
+  "homepage": "https://github.com/KimsPractice/TSPractice#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
 }
